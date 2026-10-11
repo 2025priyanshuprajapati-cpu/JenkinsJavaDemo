@@ -4,6 +4,6 @@ public class HelloJenkins {
 
         System.out.println("Hello from Jenkins!");
         System.out.println("Java build was successful.");
-        system.out.println("this is my jenkins experiment No.5");
+        System.out.println("this is my jenkins experiment No.5");
     }
 }
